@@ -198,6 +198,7 @@ main{max-width:var(--maxw); margin:0 auto; padding:0 1.5rem;}
   border:3px solid #C9A227;
   box-shadow:0 16px 32px -12px #00000066;
 }
+
 .slide-text .eyebrow{color:var(--or);}
 .carousel-controls{
   position:absolute; bottom:1rem; left:0; right:0;
